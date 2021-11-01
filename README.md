@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">, I'm George</h1>
+<h1>Hi <img src="img/wave.gif" width="32px">, I'm George</h1>
 <h3>Back-end <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="
   " width="60"/> Developer</h3>
 
