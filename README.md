@@ -18,5 +18,3 @@
 <a target="_blank" href="https://nrobinson2000.github.io/donate-bitcoin/?amount=5&currency=EUR&name=George-Martinec&link=true&mbits=false&address=14BGV3SdgmPqxwNufG54sV6uMH65EdgcyE"><img src="https://img.shields.io/badge/Donate-Bitcoin-f2a900?style=for-the-badge" alt="Bitcoin"></a>
 <br>
 <br>
-
-- [ ] Sponsor button
