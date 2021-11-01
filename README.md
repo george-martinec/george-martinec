@@ -3,7 +3,7 @@
   " width="60"/> Developer</h3>
 
 
-- 👨‍💻 I’m currently working on [GoodDay API](https://github.com/george-martinec/GoodDay)
+- 👨‍💻 I’m currently working on Unofficial [GoodDay API](https://github.com/george-martinec/GoodDay)
 
 - 🌱 Learning **CircleCI automatization**
 
