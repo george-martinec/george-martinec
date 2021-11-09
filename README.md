@@ -1,9 +1,9 @@
-<h1>Hi <img src="img/wave.gif" width="32px">, I'm George</h1>
-<h3>Back-end <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="
-  " width="50"/> Developer</h3>
+<h1>Hi <img src="img/wave.gif" width="32px">, I'm George 👨‍💻</h1>
+<h3>Back-end <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" alt="
+  " width="40"/> Developer</h3>
 
 
-- 👨‍💻 I’m currently working on [Un-Official GoodDay API - (PHP)](https://github.com/george-martinec/GoodDay)
+- 👨‍💻 In free-time working on [Un-Official GoodDay API - (PHP)](https://github.com/george-martinec/GoodDay)
 
 - 🌱 Learning **CircleCI automatization**
 
@@ -20,3 +20,4 @@
 <a target="_blank" href="https://github.com/sponsors/george-martinec"><img src="https://img.shields.io/badge/Support as-Sponsore-red?style=for-the-badge" alt="Sponsore"></a>
 <br>
 <br>
+Visit my new Emoji portfolio: <a href="http://www.👋🙂.ws">www.👋🙂.ws</a>
