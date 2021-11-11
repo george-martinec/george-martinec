@@ -21,6 +21,10 @@
 <br>
 <br>
 <br>
-Visit my new Emoji portfolio: <a href="http://www.👋🙂.ws">www.👋🙂.ws</a>
+<h3>New domains</h3>
+<a href="http://👋🙂.ws">👋🙂.ws</a>
+<br>
+<a href="http://👨‍💻☕.ws">👨‍💻☕.ws</a>
+<br>
 <br>
 <br>
