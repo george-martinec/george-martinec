@@ -1,7 +1,7 @@
 <h1>Hi <img src="img/wave.gif" width="32px">, I'm George 👨‍💻</h1>
-<h3>Back-end <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" alt="
-  " width="40"/> Developer</h3>
-
+<h3>Back-end <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" alt="" width="40"/> Developer 
+  
+  <!-- <img align="center" src="https://raw.githubusercontent.com/george-martinec/george-martinec/main/img/simplo.svg" alt="" width="120"/></h3> -->
 
 - 👨‍💻 Currently in free-time working on [Un-Official GoodDay API - (PHP)](https://github.com/george-martinec/GoodDay)
 
