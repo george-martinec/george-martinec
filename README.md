@@ -19,11 +19,4 @@
 <br>
 <br>
 <br>
-<h3>New domains</h3>
-<a href="http://👋🙂.ws">👋🙂.ws</a>
-<br>
-<a href="http://👨‍💻☕.ws">👨‍💻☕.ws</a>
-<br><br>
-Checkout Network - <b>Response Headers</b> for Contact info.
-<br>
 <br>
