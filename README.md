@@ -31,6 +31,7 @@ class About extends Me
             Redis::class,
             MongoDB::class,
             Git::class,
+            ...
         ];
     }
 
