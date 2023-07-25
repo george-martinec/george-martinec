@@ -29,7 +29,7 @@ class About extends Me
             MySQL::class,
             Docker::class,
             Git::class,
-            ...
+            ...$this->getAdditionalDailyKnowledge(),
         ];
     }
 
